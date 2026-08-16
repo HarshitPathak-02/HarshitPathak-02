@@ -63,7 +63,6 @@ CareerSaathi provides personalized career roadmaps, skill-gap analysis, daily mi
 
 - **CareerSaathi** — AI-powered career management platform
 - **BookKosh** — Full-stack second-hand book marketplace
-- **Gurukool.AI** — AI-powered learning assistant
 - **Training & Placement Cell** — College placement and assessment platform
 
 ---
